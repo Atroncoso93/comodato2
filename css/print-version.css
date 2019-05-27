@@ -1,0 +1,46 @@
+body{
+margin:0;
+padding:0;
+background:none;
+font-family:Helvetica, Arial, sans-serif;
+}
+.head{
+margin:10px 0 10px 0;
+border-bottom:#CCCCCC 1px solid;
+overflow:auto;
+padding-bottom:10px;
+}
+.head img{
+margin-right:20px;
+}
+.contenedor{
+width:770px;
+margin:0 20px 0 20px;
+}
+.campos{
+padding:10px 0 15px 0;
+overflow:auto;
+border-bottom:#CCCCCC 1px solid;
+}
+.campo2{
+float:left;
+width:360px;
+margin-right:20px;
+}
+.campo3{
+float:left;
+width:250px;
+margin:0 5px 0 0;
+}
+.datos{
+float:right;
+width:150px;
+margin:20px 0 0 0;
+font-size:10px;
+line-height:25px;
+}
+strong{
+padding-right:30px;
+color:#444;
+font-size:20px;
+}

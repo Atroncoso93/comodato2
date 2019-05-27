@@ -1,0 +1,70 @@
+*{
+margin:0;
+padding:0;
+}
+body{
+margin:0;
+padding:0;
+background:none;
+font-family:Helvetica, Arial, sans-serif;
+font-size:14px;
+}
+.head{
+margin:10px 0 10px 0;
+border-bottom:#CCCCCC 1px solid;
+overflow:auto;
+padding-bottom:10px;
+font-size:12px;
+}
+.head img{
+margin-right:20px;
+}
+.contenedor{
+width:770px;
+margin:0 20px 0 20px;
+}
+.campos-one{
+padding:10px 0 8px 0;
+overflow:auto;
+border-bottom:#CCCCCC 1px solid;
+}
+.campo-two{
+float:left;
+width:360px;
+margin-right:20px;
+}
+.campo3{
+float:left;
+width:250px;
+margin:0 5px 0 0;
+}
+.campo3b{
+float:left;
+width:230px;
+border-top:#999 1px solid;
+padding-top:10px;
+text-align:center;
+margin-left:15px;
+}
+.campo3c{
+float:left;
+width:310px;
+border-top:#999 1px solid;
+padding-top:8px;
+text-align:center;
+margin-left:25px;
+}
+h4{
+font-size:14px;
+padding-top:20px;
+}
+.datos{
+float:right;
+width:150px;
+margin:20px 0 0 0;
+line-height:25px;
+}
+strong{
+padding-right:30px;
+color:#444;
+}

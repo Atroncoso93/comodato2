@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;	
+}
+
+body{
+	width:780px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-left:20px;
+	}
+
+.datos{
+	float:right;
+	padding-top:25px;	
+}
+
+.separador{
+	border-bottom:1px #666 solid;
+	padding-top:50px;
+	}
+
+h2 {
+	margin:0 auto;
+}
+
+table.export{
+width:780px;
+padding-top:50px;
+}
+
+.celda{
+	padding-right: 1px;
+	border-left: 1px #000000 solid;
+	border-right: 1px #000000 solid;
+	border-bottom: 1px #000000 solid;
+	padding:3px;
+	}
